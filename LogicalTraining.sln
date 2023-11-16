@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapNumber", "SwapNumber\SwapNumber.csproj", "{BDA6081E-4036-43F7-A5F8-56AC56BE85B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonanciSeries", "FibonanciSeries\FibonanciSeries.csproj", "{2F2104E3-AD07-4897-A97E-1A57A9FE6A3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDA6081E-4036-43F7-A5F8-56AC56BE85B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA6081E-4036-43F7-A5F8-56AC56BE85B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA6081E-4036-43F7-A5F8-56AC56BE85B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA6081E-4036-43F7-A5F8-56AC56BE85B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F2104E3-AD07-4897-A97E-1A57A9FE6A3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F2104E3-AD07-4897-A97E-1A57A9FE6A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F2104E3-AD07-4897-A97E-1A57A9FE6A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F2104E3-AD07-4897-A97E-1A57A9FE6A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
