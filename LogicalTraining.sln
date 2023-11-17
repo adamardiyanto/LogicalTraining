@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapNumber", "SwapNumber\Sw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonanciSeries", "FibonanciSeries\FibonanciSeries.csproj", "{2F2104E3-AD07-4897-A97E-1A57A9FE6A3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{AF7A543C-5B17-4799-ABC0-29983A23539B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumber", "PrimeNumber\PrimeNumber.csproj", "{66E08C06-66C0-4307-B268-B8F9A505177D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{2F2104E3-AD07-4897-A97E-1A57A9FE6A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F2104E3-AD07-4897-A97E-1A57A9FE6A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F2104E3-AD07-4897-A97E-1A57A9FE6A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF7A543C-5B17-4799-ABC0-29983A23539B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF7A543C-5B17-4799-ABC0-29983A23539B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF7A543C-5B17-4799-ABC0-29983A23539B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF7A543C-5B17-4799-ABC0-29983A23539B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66E08C06-66C0-4307-B268-B8F9A505177D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66E08C06-66C0-4307-B268-B8F9A505177D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66E08C06-66C0-4307-B268-B8F9A505177D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66E08C06-66C0-4307-B268-B8F9A505177D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
