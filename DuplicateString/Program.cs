@@ -3,7 +3,7 @@
     public static void Main()
     {
         System.Console.WriteLine("enter text = ");
-        string input = Console.ReadLine();
+        string? input = Console.ReadLine();
         string result = string.Empty;
         for(int i=0; i< input.Length; i++)
         {
